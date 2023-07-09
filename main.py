@@ -76,6 +76,10 @@ if __name__ == "__main__":
     ## Commands
     python main.py -notpul (for not pull for drive at the start)
     python main.py -upload dir_of_file (for uload file to drive and update settings)
+    python main.py -dry (for start only a game server with pull)
+
+    you can combine commands
+    
     """)
     
     print("Loading...")
