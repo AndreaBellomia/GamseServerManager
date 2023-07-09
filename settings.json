@@ -1,0 +1,10 @@
+{
+  "CLIENT_SECRET_FILE": "credentials.json",
+  "API_NAME": "drive",
+  "API_VERSION": "v3",
+  "SCOPES": ["https://www.googleapis.com/auth/drive"],
+  "FOLDER_ID": "1182yhA_s9D5riuBrxdszavP7QDUPsVf3",
+  "file_names": "project_zomboid.zip",
+  "mime_types": "application/zip",
+  "file_id": "1qaSaqED67I6ley4ttOgfTpgo_AgqKw9n"
+}
