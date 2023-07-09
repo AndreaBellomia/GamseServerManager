@@ -3,8 +3,8 @@
   "API_NAME": "drive",
   "API_VERSION": "v3",
   "SCOPES": ["https://www.googleapis.com/auth/drive"],
-  "FOLDER_ID": "1182yhA_s9D5riuBrxdszavP7QDUPsVf3",
-  "file_names": "project_zomboid.zip",
+  "FOLDER_ID": "copy id from google drive url",
+  "file_names": "[file_name].zip",
   "mime_types": "application/zip",
-  "file_id": "1qaSaqED67I6ley4ttOgfTpgo_AgqKw9n"
+  "file_id": "copy id form google drive url"
 }
